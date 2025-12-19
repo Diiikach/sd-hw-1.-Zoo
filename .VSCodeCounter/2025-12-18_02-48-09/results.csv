@@ -1,0 +1,27 @@
+"filename", "language", "Go Module File", "Go", "Markdown", "comment", "blank", "total"
+"/Users/dikach/Documents/software-design-hw1/README.md", "Markdown", 0, 0, 104, 0, 29, 133
+"/Users/dikach/Documents/software-design-hw1/cmd/main.go", "Go", 0, 10, 0, 0, 3, 13
+"/Users/dikach/Documents/software-design-hw1/console/app.go", "Go", 0, 197, 0, 3, 40, 240
+"/Users/dikach/Documents/software-design-hw1/di/container.go", "Go", 0, 21, 0, 4, 7, 32
+"/Users/dikach/Documents/software-design-hw1/di/container_test.go", "Go", 0, 22, 0, 0, 8, 30
+"/Users/dikach/Documents/software-design-hw1/domain/animal.go", "Go", 0, 22, 0, 2, 4, 28
+"/Users/dikach/Documents/software-design-hw1/domain/animal_test.go", "Go", 0, 32, 0, 0, 8, 40
+"/Users/dikach/Documents/software-design-hw1/domain/animals_test.go", "Go", 0, 56, 0, 0, 10, 66
+"/Users/dikach/Documents/software-design-hw1/domain/computer.go", "Go", 0, 9, 0, 2, 3, 14
+"/Users/dikach/Documents/software-design-hw1/domain/herbo.go", "Go", 0, 30, 0, 2, 6, 38
+"/Users/dikach/Documents/software-design-hw1/domain/herbo_test.go", "Go", 0, 50, 0, 0, 13, 63
+"/Users/dikach/Documents/software-design-hw1/domain/interfaces.go", "Go", 0, 25, 0, 5, 6, 36
+"/Users/dikach/Documents/software-design-hw1/domain/monkey.go", "Go", 0, 9, 0, 2, 3, 14
+"/Users/dikach/Documents/software-design-hw1/domain/predator.go", "Go", 0, 9, 0, 2, 3, 14
+"/Users/dikach/Documents/software-design-hw1/domain/rabbit.go", "Go", 0, 9, 0, 2, 3, 14
+"/Users/dikach/Documents/software-design-hw1/domain/table.go", "Go", 0, 9, 0, 2, 3, 14
+"/Users/dikach/Documents/software-design-hw1/domain/thing.go", "Go", 0, 14, 0, 2, 4, 20
+"/Users/dikach/Documents/software-design-hw1/domain/thing_test.go", "Go", 0, 36, 0, 0, 10, 46
+"/Users/dikach/Documents/software-design-hw1/domain/tiger.go", "Go", 0, 9, 0, 2, 3, 14
+"/Users/dikach/Documents/software-design-hw1/domain/wolf.go", "Go", 0, 9, 0, 2, 3, 14
+"/Users/dikach/Documents/software-design-hw1/go.mod", "Go Module File", 2, 0, 0, 0, 2, 4
+"/Users/dikach/Documents/software-design-hw1/services/vet_clinic.go", "Go", 0, 12, 0, 4, 6, 22
+"/Users/dikach/Documents/software-design-hw1/services/vet_clinic_test.go", "Go", 0, 19, 0, 0, 6, 25
+"/Users/dikach/Documents/software-design-hw1/services/zoo.go", "Go", 0, 69, 0, 11, 13, 93
+"/Users/dikach/Documents/software-design-hw1/services/zoo_test.go", "Go", 0, 95, 0, 0, 31, 126
+"Total", "-", 2, 773, 104, 47, 227, 1153
